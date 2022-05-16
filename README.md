@@ -3,11 +3,11 @@
 
 
 # Passgo
-🐺Passgo- A simple Password Manager created using Python tkinter, turtle
+🐺 Passgo- A simple Password Manager created using Python tkinter, turtle
 
-💁‍♂️A simple, reliable and convenient way to store Passwords in your local systems.
+💁‍ ♂️A simple, reliable and convenient way to store Passwords in your local systems.
 
-Creates a .JSON file so as to store you confidential data on your systems in a beautiful way without anyone Snooping on your data👨‍💻
+👨‍💻 Creates a .JSON file so as to store you confidential data on your systems in a beautiful way without anyone Snooping on your data
 
 Features:
   1). Search an already saved password.
